@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CAS</string>
+    <string name="title_activity_basic">BasicActivity</string>
+    <string name="course_entry">Course Entry</string>
+    <string name="student_entry">Student Entry</string>
+    <string name="semester_entry">Semester Entry</string>
+    <string name="course_list">Course List</string>
+    <string name="student_list">Student List</string>
+    <string name="semester_list">Semester List</string>
+    <string name="registered_user_list">Registered User List</string>
+    <string name="take_attendance">Take Attendance</string>
+    <string name="date_specific_attendance_sheet">Date-Specific Attendance Sheet</string>
+    <string name="final_attendance_chart">Final Attendance Chart</string>
+</resources>
